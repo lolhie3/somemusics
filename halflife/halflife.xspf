@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Плейлист</title>
+	<trackList>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/01.mp3</location>
+			<title>Adrenaline Horror</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>129906</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/02.mp3</location>
+			<title>Vague Voices</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>2</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>131840</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/03.mp3</location>
+			<title>Klaxon Beat</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>3</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>60186</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/04.mp3</location>
+			<title>Space Ocean</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>4</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>96182</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/05.mp3</location>
+			<title>Cavern Ambience</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>5</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>100049</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/06.mp3</location>
+			<title>Apprehensive</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>6</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>23301</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/07.mp3</location>
+			<title>Bass String</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>7</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>8881</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/08.mp3</location>
+			<title>Hurricane Strings</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>8</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>93309</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/09.mp3</location>
+			<title>Diabolical Adrenaline Guitar</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>9</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>104594</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/10.mp3</location>
+			<title>Valve Theme [Extended]</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>10</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>82834</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/11.mp3</location>
+			<title>Nepal Monastery</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>11</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>128261</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/12.mp3</location>
+			<title>Alien Shock</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>12</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>36336</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/13.mp3</location>
+			<title>Sirens In The Distance</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>13</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>73012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/14.mp3</location>
+			<title>Nuclear Mission Jam</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>14</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>120529</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/15.mp3</location>
+			<title>Scared Confused Short</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>15</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>16300</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/16.mp3</location>
+			<title>Drums &amp; Riffs</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>16</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>124003</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/17.mp3</location>
+			<title>Hard Technology Rock</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>17</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>100466</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/18.mp3</location>
+			<title>Steam In The Pipes</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>18</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>115696</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/19.mp3</location>
+			<title>Electric Guitar Ambience</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>19</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>84767</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/20.mp3</location>
+			<title>Dimensionless Deepness</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>20</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>84636</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/21.mp3</location>
+			<title>Military Precision</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>21</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>80692</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/22.mp3</location>
+			<title>Jungle Drums</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>22</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>109792</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/23.mp3</location>
+			<title>Traveling Through Limbo</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>23</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>77453</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/24.mp3</location>
+			<title>Credits Closing Theme</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>24</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>99526</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/25.mp3</location>
+			<title>Threatening Short</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>25</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>37564</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/26.mp3</location>
+			<title>Dark Piano Short</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>26</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>17423</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/27.mp3</location>
+			<title>Sharp Fear Short</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>27</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>7549</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/01.mp3</location>
+			<title>Adrenaline Horror</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>129906</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/02.mp3</location>
+			<title>Vague Voices</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>2</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>131840</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/03.mp3</location>
+			<title>Klaxon Beat</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>3</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>60186</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/04.mp3</location>
+			<title>Space Ocean</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>4</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>96182</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/05.mp3</location>
+			<title>Cavern Ambience</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>5</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>100049</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/06.mp3</location>
+			<title>Apprehensive</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>6</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>23301</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/07.mp3</location>
+			<title>Bass String</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>7</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>8881</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/08.mp3</location>
+			<title>Hurricane Strings</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>8</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>93309</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/09.mp3</location>
+			<title>Diabolical Adrenaline Guitar</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>9</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>104594</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/10.mp3</location>
+			<title>Valve Theme [Extended]</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>10</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>82834</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/11.mp3</location>
+			<title>Nepal Monastery</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>11</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>128261</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/12.mp3</location>
+			<title>Alien Shock</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>12</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>36336</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/13.mp3</location>
+			<title>Sirens In The Distance</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>13</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>73012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/14.mp3</location>
+			<title>Nuclear Mission Jam</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>14</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>120529</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/15.mp3</location>
+			<title>Scared Confused Short</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>15</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>16300</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/16.mp3</location>
+			<title>Drums &amp; Riffs</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>16</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>124003</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/17.mp3</location>
+			<title>Hard Technology Rock</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>17</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>100466</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/18.mp3</location>
+			<title>Steam In The Pipes</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>18</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>115696</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/19.mp3</location>
+			<title>Electric Guitar Ambience</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>19</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>84767</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/20.mp3</location>
+			<title>Dimensionless Deepness</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>20</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>84636</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/21.mp3</location>
+			<title>Military Precision</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>21</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>80692</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/22.mp3</location>
+			<title>Jungle Drums</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>22</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>109792</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/23.mp3</location>
+			<title>Traveling Through Limbo</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>23</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>77453</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/24.mp3</location>
+			<title>Credits Closing Theme</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>24</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>99526</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/25.mp3</location>
+			<title>Threatening Short</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>25</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>37564</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/26.mp3</location>
+			<title>Dark Piano Short</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>26</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>17423</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/halflife/27.mp3</location>
+			<title>Sharp Fear Short</title>
+			<creator>Valve</creator>
+			<album>Half-Life</album>
+			<trackNum>27</trackNum>
+			<annotation>0</annotation>
+			<image>https://lolhie3.github.io/somemusics/halflife/cover.png</image>
+			<duration>7549</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+	</extension>
+</playlist>
