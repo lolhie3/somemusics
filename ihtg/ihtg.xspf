@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Плейлист</title>
+	<trackList>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/ihtg/01.mp3</location>
+			<title>Pixelizer</title>
+			<creator>HateBit</creator>
+			<album>I hate this soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>https://lolhie3.github.io/somemusics/ihtg/Cover.jpg</image>
+			<duration>115491</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/ihtg/02.mp3</location>
+			<title>Chiptune Your Head</title>
+			<creator>HateBit</creator>
+			<album>I hate this soundtrack</album>
+			<trackNum>2</trackNum>
+			<image>https://lolhie3.github.io/somemusics/ihtg/Cover.jpg</image>
+			<duration>202740</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/ihtg/03.mp3</location>
+			<title>Against the game</title>
+			<creator>HateBit</creator>
+			<album>I hate this soundtrack</album>
+			<trackNum>3</trackNum>
+			<image>https://lolhie3.github.io/somemusics/ihtg/Cover.jpg</image>
+			<duration>241844</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/ihtg/04.mp3</location>
+			<title>Dance!</title>
+			<creator>HateBit</creator>
+			<album>I hate this soundtrack</album>
+			<trackNum>4</trackNum>
+			<image>https://lolhie3.github.io/somemusics/ihtg/Cover.jpg</image>
+			<duration>111023</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/ihtg/05.mp3</location>
+			<title>Bricks</title>
+			<creator>HateBit</creator>
+			<album>I hate this soundtrack</album>
+			<trackNum>5</trackNum>
+			<image>https://lolhie3.github.io/somemusics/ihtg/Cover.jpg</image>
+			<duration>262298</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/ihtg/06.mp3</location>
+			<title>Deadly arcade</title>
+			<creator>HateBit</creator>
+			<album>I hate this soundtrack</album>
+			<trackNum>6</trackNum>
+			<image>https://lolhie3.github.io/somemusics/ihtg/Cover.jpg</image>
+			<duration>153368</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/ihtg/07.mp3</location>
+			<title>Through dimensions</title>
+			<creator>HateBit</creator>
+			<album>I hate this soundtrack</album>
+			<trackNum>7</trackNum>
+			<image>https://lolhie3.github.io/somemusics/ihtg/Cover.jpg</image>
+			<duration>178419</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>

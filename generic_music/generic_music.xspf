@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Плейлист</title>
+	<trackList>
+		<track>
+			<location>file:///D:/Musicbase/generic_music/AlanWalker_TheSpectre.mp3</location>
+			<title>The Spectre</title>
+			<creator>Alan Walker</creator>
+			<duration>193860</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Musicbase/generic_music/ColBreakz_10.000.mp3</location>
+			<title>10.000</title>
+			<creator>ColBreakz</creator>
+			<duration>243281</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
