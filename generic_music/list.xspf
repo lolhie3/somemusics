@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Плейлист</title>
+	<trackList>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/generic_music/ACYBERSWORLD.mp3</location>
+			<title>A CYBER&#39;S WORLD?</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 2 (Original Game Soundtrack)</album>
+			<trackNum>1</trackNum>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///C:/Users/NK/AppData/Roaming/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%202%20%28Original%20Game%20Soundtrack%29/art.jpg</image>
+			<duration>166207</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/generic_music/AlanWalker_TheSpectre.mp3</location>
+			<title>The Spectre</title>
+			<creator>Alan Walker</creator>
+			<trackNum>2</trackNum>
+			<image>file:///C:/Users/NK/AppData/Roaming/vlc/art/arturl/a87256ddd60b86086c78371e0e3893d0/art</image>
+			<duration>193860</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/generic_music/ColBreakz_10.000.mp3</location>
+			<title>10.000</title>
+			<creator>ColBreakz</creator>
+			<trackNum>3</trackNum>
+			<duration>243278</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/generic_music/DVRST_DreamSpace.mp3</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/generic_music/EMPTYDREAMS.mp3</location>
+			<title>EMPTY DREAMS</title>
+			<creator>CYPARISS</creator>
+			<album>EMPTY DREAMS</album>
+			<trackNum>5</trackNum>
+			<annotation>https://www.youtube.com/watc</annotation>
+			<image>file:///C:/Users/NK/AppData/Roaming/vlc/art/artistalbum/CYPARISS/EMPTY%20DREAMS/art.jpg</image>
+			<duration>135032</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/generic_music/GHOST.mp3</location>
+			<title>GHOST</title>
+			<creator>Jaden, Christian Rich</creator>
+			<album>GHOST</album>
+			<trackNum>6</trackNum>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///C:/Users/NK/AppData/Roaming/vlc/art/artistalbum/Jaden%2C%20Christian%20Rich/GHOST/art.jpg</image>
+			<duration>129776</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/generic_music/help_urself.mp3</location>
+			<title>help_urself</title>
+			<creator>Ezekiel</creator>
+			<album>help_urself</album>
+			<trackNum>7</trackNum>
+			<annotation>https://www.youtube.com/watc</annotation>
+			<image>file:///C:/Users/NK/AppData/Roaming/vlc/art/artistalbum/Ezekiel/help_urself/art.jpg</image>
+			<duration>134360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/generic_music/Ksenon_3DInstrumental.mp3</location>
+			<title>3Д (Instrumental)</title>
+			<creator>Ksenon 2</creator>
+			<album>3Д</album>
+			<trackNum>8</trackNum>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///C:/Users/NK/AppData/Roaming/vlc/art/artistalbum/Ksenon%202/3%D0%94/art.jpg</image>
+			<duration>102536</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/generic_music/liue_SufferWithMe.mp3</location>
+			<title>Suffer With Me</title>
+			<creator>liue</creator>
+			<album>Suffer With Me</album>
+			<trackNum>9</trackNum>
+			<annotation>https://www.youtube.com/watc</annotation>
+			<image>file:///C:/Users/NK/AppData/Roaming/vlc/art/artistalbum/liue/Suffer%20With%20Me/art.jpg</image>
+			<duration>207991</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/generic_music/Oliver%20Tree%20%26%20Robin%20Schulz%20-%20Miss%20You.mp3</location>
+			<title>Miss You</title>
+			<creator>Oliver Tree &amp; Robin Schulz</creator>
+			<trackNum>10</trackNum>
+			<duration>206030</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/generic_music/Oneheart_snowfall.mp3</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/generic_music/PASTELGHOST_DarkBeach.mp3</location>
+			<duration>222075</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/generic_music/Proof%20Nation%20-%20TOKYO%202115.mp3</location>
+			<title>TOKYO 2115</title>
+			<creator>Proof Nation</creator>
+			<album>TOKYO 2115</album>
+			<trackNum>13</trackNum>
+			<duration>110135</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/generic_music/SeamlessR_Sometime.mp3</location>
+			<title>Sometime</title>
+			<creator>SeamlessR</creator>
+			<trackNum>14</trackNum>
+			<annotation>A track mainly about harmonized chords and their journey to discover the meaning of life, and bass. Soundcloud.com/SeamlessRYoutube.com/SeamlessRFacebook.com/OfficialSeamlessTwitter.com/SeamlessRTwitch.tv/SeamlessR*This track is copyrighted. Redistribution in whole or in part is forbidden without permission*</annotation>
+			<duration>170292</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/generic_music/VEXLA_Siege.mp3</location>
+			<title>Siege</title>
+			<creator>VEXLA</creator>
+			<album>Siege</album>
+			<trackNum>15</trackNum>
+			<annotation>https://www.youtube.com/watc</annotation>
+			<image>file:///C:/Users/NK/AppData/Roaming/vlc/art/artistalbum/VEXLA/Siege/art.jpg</image>
+			<duration>153655</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://lolhie3.github.io/somemusics/generic_music/ZeFila_ShadowLady_PhonkRemix.mp3</location>
+			<title>Shadow lady (phonk Remix)</title>
+			<creator>ZeFilla</creator>
+			<album>Shadow lady</album>
+			<trackNum>16</trackNum>
+			<annotation>https://www.youtube.com/watc</annotation>
+			<image>file:///C:/Users/NK/AppData/Roaming/vlc/art/artistalbum/ZeFilla/Shadow%20lady/art.jpg</image>
+			<duration>130304</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+	</extension>
+</playlist>
